@@ -30,3 +30,6 @@ override.tf.json
 
 # Ignore terraform executable
 terraform
+.terraform 
+# 
+.terraform.lock.hcl 
